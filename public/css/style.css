@@ -1,0 +1,65 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.menu{
+    background-color: #00000025;
+}
+
+
+.menus{
+    background-color:#FF9C50;
+}
+
+
+.logo{
+    width: 100px;
+    height: 100px;
+    margin: 15px;
+}
+
+.men{
+    color:white;
+    font-size: 18px;
+    font-weight: 700;
+    padding: 10px;
+    margin:15px;
+}
+
+.men:hover{
+    border: 1px solid white;
+    color:black;
+    border-radius: 30px;
+}
+
+.contact{
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.copy{
+    font-size: 12px;
+    margin: 15px;
+    font-weight: 500;
+}
+
+#ctct{
+    margin:10px
+}
+
+
+.carou{
+    width: 230vh;
+    height: 115vh;
+}
+
+
+.sect{
+    height: 400px;
+}
+
+.cards{
+    display:flex;
+    justify-content: space-around;
+}
+

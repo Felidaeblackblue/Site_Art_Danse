@@ -1,0 +1,43 @@
+*{
+    box-sizing: border-box;
+}
+
+
+.bg-card{
+    background-color: #f7a76a;
+}
+.bold-title{
+    font-weight: bold;
+}
+
+@media only screen and (max-width: 700px){
+    .carou{
+        width: 100%;
+        height: 85%;
+        margin: 10px;
+    }
+}
+
+.bg-card{
+    margin: 0;
+    padding: 0;
+}
+
+
+.cartes{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.bg-card{
+    width: 250px;
+    height: 480px;
+    margin: 15px;
+    padding: 10px;
+}
+
+.titre{
+    font-size: 102px;
+    padding: 295px;
+    background-color: rgba(0, 0, 0, 0.116);
+}

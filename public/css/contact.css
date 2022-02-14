@@ -1,0 +1,27 @@
+main{
+    margin-bottom: 100px;
+}
+.imagecontact{
+padding-left: 50px;
+}
+.padForm{
+    padding-top: 40px;
+}
+.bouton0
+{
+display: flex;
+justify-content: flex-end;
+}
+.bouton{
+    border: 1px black solid;
+    margin-top: 15px;
+}
+.bouton:hover{
+    border: 1px yellow solid;
+    background-color: #f8b100    ;
+    margin-top: 15px;
+}
+
+h4{
+    padding-left: 50px;
+}
